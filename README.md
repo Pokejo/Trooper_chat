@@ -5,4 +5,4 @@
 
 
 For now, it's not secure and work only with 2 devices on the same LAN.
-But it's the 0.1. I will improve it with security and more user-friendly.
+But it's the 0.1. I will improve it with some encryption and a more useful workflow.
